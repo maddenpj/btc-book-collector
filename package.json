@@ -1,0 +1,11 @@
+{
+  "name": "btc-book-collector",
+  "version": "0.0.1",
+  "dependencies": {
+    "underscore": "1.6.x",
+    "node-uuid": "1.4.x",
+    "websocket": "1.0.x"
+  }
+}
+
+
